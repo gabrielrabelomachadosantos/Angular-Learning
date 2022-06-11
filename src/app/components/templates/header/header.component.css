@@ -1,0 +1,20 @@
+.header {
+    display: flex;
+    align-items:center;
+    background-color: black;
+}
+
+.header a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+}
+
+.header .logo {
+    max-height: 32px;
+}
+
+.header .home {
+    color: white;
+    padding-right: 20px;
+}
